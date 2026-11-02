@@ -1,0 +1,33 @@
+# Vocabulary Master mein khush aamdeed! (ye line notice hai, hatana ho to ye line delete kar do)
+Eloquent|adjective|Fluent and persuasive in speaking or writing|She gave an eloquent speech.|فصیح
+Resilient|adjective|Able to recover quickly from difficulties|Children are often resilient.|لچکدار
+Benevolent|adjective|Kind and generous|A benevolent king helped the poor.|مہربان
+Ephemeral|adjective|Lasting a very short time|Fame can be ephemeral.|عارضی
+Meticulous|adjective|Very careful and precise|He is meticulous about his work.|محتاط
+Candid|adjective|Truthful and straightforward|Please give me your candid opinion.|صاف گو
+Diligent|adjective|Hardworking and careful|A diligent student passes exams.|محنتی
+Frugal|adjective|Careful with money; economical|They lead a frugal life.|کفایت شعار
+Pragmatic|adjective|Practical rather than theoretical|Take a pragmatic approach.|عملی
+Verbose|adjective|Using more words than needed|The report was too verbose.|طویل گو
+Altruism|noun|Unselfish concern for others|Her altruism inspired everyone.|ایثار
+Obsolete|adjective|No longer used; out of date|Floppy disks are obsolete.|متروک
+Lucid|adjective|Clear and easy to understand|His explanation was lucid.|واضح
+Tenacious|adjective|Holding firmly to a goal; persistent|A tenacious player never quits.|ثابت قدم
+Ambiguous|adjective|Having more than one possible meaning|The answer was ambiguous.|مبہم
+Reluctant|adjective|Unwilling; hesitant|He was reluctant to leave.|ہچکچانے والا
+Inevitable|adjective|Certain to happen|Change is inevitable.|ناگزیر
+Prudent|adjective|Wise and careful|A prudent person saves money.|دانشمند
+Scarce|adjective|Not enough; rare|Water is scarce here.|کمیاب
+Vivid|adjective|Bright; very clear in the mind|I have vivid memories.|روشن
+Humble|adjective|Modest; not proud|He is humble despite his fame.|عاجز
+Abundant|adjective|Existing in large quantities|Food was abundant.|وافر
+Reliable|adjective|Can be trusted|She is a reliable friend.|قابل اعتماد
+Subtle|adjective|Not obvious; delicate|There is a subtle difference.|باریک
+Genuine|adjective|Real; authentic|She gave a genuine smile.|اصلی
+Hesitate|verb|To pause before doing something|Do not hesitate to ask.|ہچکچانا
+Enhance|verb|To improve quality or value|Reading enhances vocabulary.|بہتر بنانا
+Persuade|verb|To convince someone to do something|She persuaded me to join.|قائل کرنا
+Obstacle|noun|Something that blocks progress|Fear is an obstacle.|رکاوٹ
+Commence|verb|To begin|The class will commence at nine.|شروع کرنا
+Flourish|verb|To grow or develop well|Businesses flourish here.|پھلنا پھولنا
+Fragile|adjective|Easily broken|The glass is fragile.|نازک
